@@ -8,7 +8,7 @@
             "type": "chrome",
             "request": "launch",
             "name": "Lancer Chrome sur localhost",
-            "file": "${workspaceFolder}/index.html"
+            "file": "${workspaceFolder}/JavaScript/index.html"
         }
     ]
 }
