@@ -9,29 +9,25 @@ var removeDuplicates = function(nums) {
         if (temp !== null) {
             var isThereDuplicates = temp === element;
             if (!isThereDuplicates) {
+                var indexToPlace = len - 1;
+                nums[indexToPlace] = temp;
                 len++;
-            }
-            var areThereDifferentFromOneToAnother = temp !== element;
-            if (areThereDifferentFromOneToAnother) {
-                console.log("[");
-                console.log("temp: " + temp);
-                console.log("element: " + element);
-                console.log("nums[index]: " + nums[index]);
-                console.log("]");
-                nums[index] = temp;
             }
         }
         else {
             len++;
         }
         temp = element;
+        if (index === (nums.length - 1)) {
+            nums[len - 1] = nums[nums.length - 1];
+        }
     });
-    
     return len;
 };
 
 var startRemoveDupliates = function(nums) {
-    console.log("*********");
+    console.log("********");
+    console.log(nums);
     // nums is passed in by reference. (i.e., without making a copy)
     var len = removeDuplicates(nums);
     console.log("len array: " + len);
