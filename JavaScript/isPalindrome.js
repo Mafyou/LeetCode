@@ -6,7 +6,7 @@ var reverse = function (number_to_reverse) {
 		number_to_reverse = number_to_reverse / 10;
 	}
 	return result;
-}
+};
 
 var isPalindrome = function(x) {
 	var result = false;

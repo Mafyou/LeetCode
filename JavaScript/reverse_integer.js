@@ -8,4 +8,4 @@ var reverse = function (number_to_reverse) {
 		number_to_reverse = number_to_reverse / 10;
 	}
 	return result;
-}
+};

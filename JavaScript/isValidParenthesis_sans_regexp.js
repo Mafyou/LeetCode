@@ -41,7 +41,7 @@ var isValid = function(s) {
 							j++;
 							tempChar = s[j];
 							numberOfParenthesisOrBracketOpened--;
-							continue
+							continue;
 					}
 					else {
 						return false;

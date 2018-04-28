@@ -39,7 +39,8 @@ var startRemoveDupliates = function(nums) {
     // using the length returned by your function, it prints the first len elements.
     console.log(nums);
     console.log("*********");
-}
+};
+
 var nums = [1]; // 1
 startRemoveDupliates(nums);
 var nums = [1, 2]; // 1,2

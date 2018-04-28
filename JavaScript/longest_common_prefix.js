@@ -3,7 +3,7 @@
  * @return {string}
  */
 var longestCommonPrefix = function(strs) {
-	var result = ""
+	var result = "";
 	if (strs.length === 0) {
 		return "";
 	}
@@ -19,6 +19,7 @@ var longestCommonPrefix = function(strs) {
 			var loopedEntry = strs[j];
 			for (var ii = i; ii < currentEntry.length; ii++) {
 				var currentEntryChar = currentEntry[ii];
+				var isMoreCharThanTheInputs = null;
 				for (var jj = ii; jj < loopedEntry.length; jj++) {
 					var loopedEntryChar = loopedEntry[jj];
 					
@@ -26,11 +27,11 @@ var longestCommonPrefix = function(strs) {
 					if (isCommonPrefix && !isThereANextThing) {
 						result += currentEntryChar;
 					}
-					var isMoreCharThanTheInputs =	result.length >= currentEntry.length || 
+					isMoreCharThanTheInputs =	result.length >= currentEntry.length || 
 													result.length >= loopedEntry.length;
 					//if (isMoreCharThanTheInputs) break;
 				}
-				var isMoreCharThanTheInputs =	result.length >= currentEntry.length || 
+				isMoreCharThanTheInputs =	result.length >= currentEntry.length || 
 												result.length >= loopedEntry.length;
 				//if (isMoreCharThanTheInputs) break;
 			}

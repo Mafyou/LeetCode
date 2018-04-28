@@ -1,2 +1,2 @@
 # LeetCode
-Few exercice for the website leetcode.com
+Few exercice from the website leetcode.com
