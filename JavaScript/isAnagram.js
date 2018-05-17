@@ -8,7 +8,7 @@ var isAnagram = function(s, t) {
     if (s.length !== t.length) return false;
     for(var i = 0; i < s.length; i++) {
         for(var j = 0; j < t.length; j++) {
-            if (s[i] === t[j] && t[j] !== '*') {
+            if (s[i] === t[j]) {
                 match++;
                 t = t.replace(t[j], '');
                 break;
