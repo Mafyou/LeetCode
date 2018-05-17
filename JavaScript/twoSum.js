@@ -15,4 +15,4 @@ function twoSum(nums, target) {
 		if (pushedArray.length === 2) break;
 	}
 	return pushedArray;
-};
+}

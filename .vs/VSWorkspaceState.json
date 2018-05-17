@@ -1,7 +1,9 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\CSharp",
+    "\\JavaScript"
   ],
-  "SelectedNode": "\\CSharp",
+  "SelectedNode": "\\JavaScript\\isValidParenthesis.js",
   "PreviewInSolutionExplorer": false
 }
