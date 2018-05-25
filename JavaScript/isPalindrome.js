@@ -16,3 +16,5 @@ var isPalindrome = function(x) {
 	}
 	return result;
 };
+
+console.log(isPalindrome(1234560654321));
