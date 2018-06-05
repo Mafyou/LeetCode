@@ -19,11 +19,32 @@ var maxCount = function(m, n, ops) {
         for (let j = 0; j < currentOp[i]; j++) {
             let op = currentOp[i];
             for(let k = 0; k < op; k++) {
-                matrix[j][k]++;
+                matrix[j][k] = matrix[j][k] + 1;
             }
         }
     }
-    return matrix;
+    
+    let max = 0;
+    for(let i = 0; i < matrix.length; i++) {
+        for(var j = 0; j < matrix[i].length; j++) {
+            let valueMatrix = matrix[i][j];
+            if (valueMatrix > max) {
+                max = valueMatrix;
+            }
+        }
+    }
+
+    let occurences = 0;
+    for(let i = 0; i < matrix.length; i++) {
+        for(var j = 0; j < matrix[i].length; j++) {
+            let valueMatrix = matrix[i][j];
+            if (valueMatrix == max) {
+                occurences++;
+            }
+        }
+    }
+    
+    return occurences;
 };
 
 console.log(maxCount(3, 3, [[2,2],[3,3]]));
