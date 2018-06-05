@@ -7,14 +7,11 @@ var maxSubArray = function(nums) {
     let curMax = nums[0];
     let max = nums[0];
     for(let i = 1; i < nums.length; i++) {
-        console.log("curMax: " + curMax);
-        console.log("max: " + max);
-        console.log("nums[i]: " + nums[i]);
-        curMax = Math.max(curMax + nums[i], nums[i]);
+        let res = curMax + nums[i];
+        console.log("curMax & num[i]: " + res + " nums[i]: " + nums[i])
+        curMax = Math.max(res, nums[i]);
+        console.log("curMax: " + curMax + " max: " + max);
         max = Math.max(curMax, max);
-        console.log("curMax: " + curMax);
-        console.log("max: " + max);
-        console.log("nums[i]: " + nums[i]);
         console.log("*******");
     }
     return max;
