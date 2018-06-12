@@ -5,46 +5,11 @@
  * @return {number}
  */
 var maxCount = function(m, n, ops) {
-    let matrix = [];
-    for(let i = m; i > 0; i--) {
-        let myArray = [];
-        for(var j = 0; j < n; j++) {
-            myArray.push(0);
-        }
-        matrix.push(myArray);
+    for(var i = 0; i < ops.length; i++) {
+        m = Math.min(m, ops[i][0]);
+        n = Math.min(n, ops[i][1]);
     }
-
-    for (let i = 0; i < ops.length; i++) {
-        let currentOp = ops[i];
-        for (let j = 0; j < currentOp[i]; j++) {
-            let op = currentOp[i];
-            for(let k = 0; k < op; k++) {
-                matrix[j][k] = matrix[j][k] + 1;
-            }
-        }
-    }
-    
-    let max = 0;
-    for(let i = 0; i < matrix.length; i++) {
-        for(var j = 0; j < matrix[i].length; j++) {
-            let valueMatrix = matrix[i][j];
-            if (valueMatrix > max) {
-                max = valueMatrix;
-            }
-        }
-    }
-
-    let occurences = 0;
-    for(let i = 0; i < matrix.length; i++) {
-        for(var j = 0; j < matrix[i].length; j++) {
-            let valueMatrix = matrix[i][j];
-            if (valueMatrix == max) {
-                occurences++;
-            }
-        }
-    }
-    
-    return occurences;
+    return m * n;
 };
 
 console.log(maxCount(3, 3, [[2,2],[3,3]]));
