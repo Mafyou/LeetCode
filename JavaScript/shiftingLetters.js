@@ -15,9 +15,7 @@ var shiftingLetters = function(S, shifts) {
         let currentLetter = S[i];
         for (let j = i; j < realShifts.length; j++) {
             let currentShift = realShifts[j];
-            if (currentShiftedLetter === "") {
-                currentShiftedLetter = currentLetter;
-            }
+            if (currentShiftedLetter === "") currentShiftedLetter = currentLetter;
             let positionInAlpha = currentShiftedLetter.charCodeAt(currentShiftedLetter) + currentShift;
             currentShiftedLetter = positionInAlpha > 122 ?
                 String.fromCharCode(currentShiftedLetter.charCodeAt(currentShiftedLetter) + currentShift - 26) :
