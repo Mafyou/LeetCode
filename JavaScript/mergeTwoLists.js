@@ -12,9 +12,9 @@
 var mergeTwoLists = function(l1, l2) {
     let head = new ListNode(0);
     let mergedList = head;
-    while (l1 != null && l2 != null) {
-        let val1 = (l1 != null) ? l1.val : Integer.MAX_VALUE;
-		let val2 = (l2 != null) ? l2.val : Integer.MAX_VALUE;
+    while (l1 != null || l2 != null) {
+        let val1 = (l1 != null) ? l1.val : 42;
+		let val2 = (l2 != null) ? l2.val : 42;
 		mergedList.next = new ListNode(Math.min(val1, val2));
 		mergedList = mergedList.next;
 		if (val1 < val2)

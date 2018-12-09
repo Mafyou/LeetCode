@@ -182,6 +182,7 @@
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
+    <Folder Include="CSharp\isHappy\" />
     <Folder Include="CSharp\LengthOfLastWord\LengthOfLastWord\bin\Release\" />
     <Folder Include="CSharp\LengthOfLastWord\LengthOfLastWord\obj\Debug\TempPE\" />
     <Folder Include="CSharp\MySqrt\MySqrt\bin\Release\" />
