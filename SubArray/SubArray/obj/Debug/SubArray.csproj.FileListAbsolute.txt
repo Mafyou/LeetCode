@@ -1,0 +1,7 @@
+C:\Users\Mafyou\Source\Repos\LeetCode\CSharp\SubArray\SubArray\obj\Debug\SubArray.csprojResolveAssemblyReference.cache
+C:\Users\Mafyou\Source\Repos\LeetCode\CSharp\SubArray\SubArray\obj\Debug\SubArray.csproj.CoreCompileInputs.cache
+C:\Users\Mafyou\Source\Repos\LeetCode\CSharp\SubArray\SubArray\bin\Debug\SubArray.exe.config
+C:\Users\Mafyou\Source\Repos\LeetCode\CSharp\SubArray\SubArray\bin\Debug\SubArray.exe
+C:\Users\Mafyou\Source\Repos\LeetCode\CSharp\SubArray\SubArray\bin\Debug\SubArray.pdb
+C:\Users\Mafyou\Source\Repos\LeetCode\CSharp\SubArray\SubArray\obj\Debug\SubArray.exe
+C:\Users\Mafyou\Source\Repos\LeetCode\CSharp\SubArray\SubArray\obj\Debug\SubArray.pdb

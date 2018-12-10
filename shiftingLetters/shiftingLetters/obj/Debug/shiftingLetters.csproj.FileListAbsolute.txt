@@ -1,0 +1,7 @@
+C:\Users\Mafyou\Source\Repos\LeetCode\CSharp\shiftingLetters\shiftingLetters\shiftingLetters\bin\Debug\shiftingLetters.exe.config
+C:\Users\Mafyou\Source\Repos\LeetCode\CSharp\shiftingLetters\shiftingLetters\shiftingLetters\bin\Debug\shiftingLetters.exe
+C:\Users\Mafyou\Source\Repos\LeetCode\CSharp\shiftingLetters\shiftingLetters\shiftingLetters\bin\Debug\shiftingLetters.pdb
+C:\Users\Mafyou\Source\Repos\LeetCode\CSharp\shiftingLetters\shiftingLetters\shiftingLetters\obj\Debug\shiftingLetters.csprojAssemblyReference.cache
+C:\Users\Mafyou\Source\Repos\LeetCode\CSharp\shiftingLetters\shiftingLetters\shiftingLetters\obj\Debug\shiftingLetters.csproj.CoreCompileInputs.cache
+C:\Users\Mafyou\Source\Repos\LeetCode\CSharp\shiftingLetters\shiftingLetters\shiftingLetters\obj\Debug\shiftingLetters.exe
+C:\Users\Mafyou\Source\Repos\LeetCode\CSharp\shiftingLetters\shiftingLetters\shiftingLetters\obj\Debug\shiftingLetters.pdb

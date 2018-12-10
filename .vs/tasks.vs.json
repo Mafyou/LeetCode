@@ -1,0 +1,35 @@
+{
+  "version": "0.2.1",
+  "tasks": [
+    {
+      "taskName": "task-gulpfile",
+      "appliesTo": "JavaScript/gulpfile.js",
+      "type": "launch"
+    },
+    {
+      "taskName": "task-package",
+      "appliesTo": "package.json",
+      "type": "launch"
+    },
+    {
+      "taskName": "task-package",
+      "appliesTo": "package.json",
+      "type": "launch"
+    },
+    {
+      "taskName": "task-gulpfile",
+      "appliesTo": "gulpfile.js",
+      "type": "launch"
+    },
+    {
+      "taskName": "tâche-package",
+      "appliesTo": "package.json",
+      "type": "launch"
+    },
+    {
+      "taskName": "task-package",
+      "appliesTo": "package.json",
+      "type": "launch"
+    }
+  ]
+}

@@ -1,0 +1,7 @@
+C:\Users\Mafyou\Source\Repos\isHappy\bin\Debug\isHappy.exe.config
+C:\Users\Mafyou\Source\Repos\isHappy\bin\Debug\isHappy.exe
+C:\Users\Mafyou\Source\Repos\isHappy\bin\Debug\isHappy.pdb
+C:\Users\Mafyou\Source\Repos\isHappy\obj\Debug\isHappy.csprojAssemblyReference.cache
+C:\Users\Mafyou\Source\Repos\isHappy\obj\Debug\isHappy.csproj.CoreCompileInputs.cache
+C:\Users\Mafyou\Source\Repos\isHappy\obj\Debug\isHappy.exe
+C:\Users\Mafyou\Source\Repos\isHappy\obj\Debug\isHappy.pdb

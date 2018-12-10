@@ -1,0 +1,11 @@
+C:\Users\Mafyou\Source\Repos\LeetCode\NextGreatestLetter\bin\Debug\netcoreapp2.1\NextGreatestLetter.deps.json
+C:\Users\Mafyou\Source\Repos\LeetCode\NextGreatestLetter\bin\Debug\netcoreapp2.1\NextGreatestLetter.runtimeconfig.json
+C:\Users\Mafyou\Source\Repos\LeetCode\NextGreatestLetter\bin\Debug\netcoreapp2.1\NextGreatestLetter.runtimeconfig.dev.json
+C:\Users\Mafyou\Source\Repos\LeetCode\NextGreatestLetter\bin\Debug\netcoreapp2.1\NextGreatestLetter.dll
+C:\Users\Mafyou\Source\Repos\LeetCode\NextGreatestLetter\bin\Debug\netcoreapp2.1\NextGreatestLetter.pdb
+C:\Users\Mafyou\Source\Repos\LeetCode\NextGreatestLetter\obj\Debug\netcoreapp2.1\NextGreatestLetter.csprojAssemblyReference.cache
+C:\Users\Mafyou\Source\Repos\LeetCode\NextGreatestLetter\obj\Debug\netcoreapp2.1\NextGreatestLetter.csproj.CoreCompileInputs.cache
+C:\Users\Mafyou\Source\Repos\LeetCode\NextGreatestLetter\obj\Debug\netcoreapp2.1\NextGreatestLetter.AssemblyInfoInputs.cache
+C:\Users\Mafyou\Source\Repos\LeetCode\NextGreatestLetter\obj\Debug\netcoreapp2.1\NextGreatestLetter.AssemblyInfo.cs
+C:\Users\Mafyou\Source\Repos\LeetCode\NextGreatestLetter\obj\Debug\netcoreapp2.1\NextGreatestLetter.dll
+C:\Users\Mafyou\Source\Repos\LeetCode\NextGreatestLetter\obj\Debug\netcoreapp2.1\NextGreatestLetter.pdb

@@ -1,0 +1,11 @@
+C:\Users\Mafyou\Source\Repos\FindLengthOfLCIS\bin\Debug\netcoreapp2.1\FindLengthOfLCIS.deps.json
+C:\Users\Mafyou\Source\Repos\FindLengthOfLCIS\bin\Debug\netcoreapp2.1\FindLengthOfLCIS.runtimeconfig.json
+C:\Users\Mafyou\Source\Repos\FindLengthOfLCIS\bin\Debug\netcoreapp2.1\FindLengthOfLCIS.runtimeconfig.dev.json
+C:\Users\Mafyou\Source\Repos\FindLengthOfLCIS\bin\Debug\netcoreapp2.1\FindLengthOfLCIS.dll
+C:\Users\Mafyou\Source\Repos\FindLengthOfLCIS\bin\Debug\netcoreapp2.1\FindLengthOfLCIS.pdb
+C:\Users\Mafyou\Source\Repos\FindLengthOfLCIS\obj\Debug\netcoreapp2.1\FindLengthOfLCIS.csprojAssemblyReference.cache
+C:\Users\Mafyou\Source\Repos\FindLengthOfLCIS\obj\Debug\netcoreapp2.1\FindLengthOfLCIS.csproj.CoreCompileInputs.cache
+C:\Users\Mafyou\Source\Repos\FindLengthOfLCIS\obj\Debug\netcoreapp2.1\FindLengthOfLCIS.AssemblyInfoInputs.cache
+C:\Users\Mafyou\Source\Repos\FindLengthOfLCIS\obj\Debug\netcoreapp2.1\FindLengthOfLCIS.AssemblyInfo.cs
+C:\Users\Mafyou\Source\Repos\FindLengthOfLCIS\obj\Debug\netcoreapp2.1\FindLengthOfLCIS.dll
+C:\Users\Mafyou\Source\Repos\FindLengthOfLCIS\obj\Debug\netcoreapp2.1\FindLengthOfLCIS.pdb
