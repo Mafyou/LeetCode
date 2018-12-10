@@ -1,0 +1,7 @@
+C:\Users\Mafyou\Documents\Visual Studio 2017\Projects\StrStr\StrStr\bin\Debug\StrStr.exe.config
+C:\Users\Mafyou\Documents\Visual Studio 2017\Projects\StrStr\StrStr\bin\Debug\StrStr.exe
+C:\Users\Mafyou\Documents\Visual Studio 2017\Projects\StrStr\StrStr\bin\Debug\StrStr.pdb
+C:\Users\Mafyou\Documents\Visual Studio 2017\Projects\StrStr\StrStr\obj\Debug\StrStr.csprojResolveAssemblyReference.cache
+C:\Users\Mafyou\Documents\Visual Studio 2017\Projects\StrStr\StrStr\obj\Debug\StrStr.csproj.CoreCompileInputs.cache
+C:\Users\Mafyou\Documents\Visual Studio 2017\Projects\StrStr\StrStr\obj\Debug\StrStr.exe
+C:\Users\Mafyou\Documents\Visual Studio 2017\Projects\StrStr\StrStr\obj\Debug\StrStr.pdb

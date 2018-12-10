@@ -1,6 +1,0 @@
-C:\Users\Mafyou\Documents\Visual Studio 2017\Projects\MySqrt\MySqrt\obj\Debug\MySqrt.csproj.CoreCompileInputs.cache
-C:\Users\Mafyou\Documents\Visual Studio 2017\Projects\MySqrt\MySqrt\bin\Debug\MySqrt.exe.config
-C:\Users\Mafyou\Documents\Visual Studio 2017\Projects\MySqrt\MySqrt\bin\Debug\MySqrt.exe
-C:\Users\Mafyou\Documents\Visual Studio 2017\Projects\MySqrt\MySqrt\bin\Debug\MySqrt.pdb
-C:\Users\Mafyou\Documents\Visual Studio 2017\Projects\MySqrt\MySqrt\obj\Debug\MySqrt.exe
-C:\Users\Mafyou\Documents\Visual Studio 2017\Projects\MySqrt\MySqrt\obj\Debug\MySqrt.pdb

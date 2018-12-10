@@ -1,0 +1,7 @@
+C:\Users\Mafyou\Documents\Visual Studio 2017\Projects\ShiftMe\ShiftMe\bin\Debug\ShiftMe.exe.config
+C:\Users\Mafyou\Documents\Visual Studio 2017\Projects\ShiftMe\ShiftMe\bin\Debug\ShiftMe.exe
+C:\Users\Mafyou\Documents\Visual Studio 2017\Projects\ShiftMe\ShiftMe\bin\Debug\ShiftMe.pdb
+C:\Users\Mafyou\Documents\Visual Studio 2017\Projects\ShiftMe\ShiftMe\obj\Debug\ShiftMe.csprojResolveAssemblyReference.cache
+C:\Users\Mafyou\Documents\Visual Studio 2017\Projects\ShiftMe\ShiftMe\obj\Debug\ShiftMe.csproj.CoreCompileInputs.cache
+C:\Users\Mafyou\Documents\Visual Studio 2017\Projects\ShiftMe\ShiftMe\obj\Debug\ShiftMe.exe
+C:\Users\Mafyou\Documents\Visual Studio 2017\Projects\ShiftMe\ShiftMe\obj\Debug\ShiftMe.pdb

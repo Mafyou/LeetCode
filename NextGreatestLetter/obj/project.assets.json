@@ -695,11 +695,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Mafyou\\Source\\Repos\\LeetCode\\NextGreatestLetter\\NextGreatestLetter.csproj",
+      "projectUniqueName": "D:\\dev\\GitHub\\LeetCode\\NextGreatestLetter\\NextGreatestLetter.csproj",
       "projectName": "NextGreatestLetter",
-      "projectPath": "C:\\Users\\Mafyou\\Source\\Repos\\LeetCode\\NextGreatestLetter\\NextGreatestLetter.csproj",
+      "projectPath": "D:\\dev\\GitHub\\LeetCode\\NextGreatestLetter\\NextGreatestLetter.csproj",
       "packagesPath": "C:\\Users\\Mafyou\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Mafyou\\Source\\Repos\\LeetCode\\NextGreatestLetter\\obj\\",
+      "outputPath": "D:\\dev\\GitHub\\LeetCode\\NextGreatestLetter\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackagesFallback\\",

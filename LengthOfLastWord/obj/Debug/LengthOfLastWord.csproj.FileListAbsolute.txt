@@ -1,0 +1,6 @@
+C:\Users\Mafyou\Documents\Visual Studio 2017\Projects\LengthOfLastWord\LengthOfLastWord\bin\Debug\LengthOfLastWord.exe.config
+C:\Users\Mafyou\Documents\Visual Studio 2017\Projects\LengthOfLastWord\LengthOfLastWord\bin\Debug\LengthOfLastWord.exe
+C:\Users\Mafyou\Documents\Visual Studio 2017\Projects\LengthOfLastWord\LengthOfLastWord\bin\Debug\LengthOfLastWord.pdb
+C:\Users\Mafyou\Documents\Visual Studio 2017\Projects\LengthOfLastWord\LengthOfLastWord\obj\Debug\LengthOfLastWord.csproj.CoreCompileInputs.cache
+C:\Users\Mafyou\Documents\Visual Studio 2017\Projects\LengthOfLastWord\LengthOfLastWord\obj\Debug\LengthOfLastWord.exe
+C:\Users\Mafyou\Documents\Visual Studio 2017\Projects\LengthOfLastWord\LengthOfLastWord\obj\Debug\LengthOfLastWord.pdb

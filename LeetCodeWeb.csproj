@@ -55,7 +55,7 @@
     <Content Include="JavaScript\containsDuplicate.js" />
     <Content Include="JavaScript\flipAndInvertImage.js" />
     <Content Include="JavaScript\Increment.js" />
-    <Content Include="JavaScript\index.html" />
+    <Content Include="index.html" />
     <Content Include="JavaScript\isAnagram.js" />
     <Content Include="JavaScript\isPalindrome.js" />
     <Content Include="JavaScript\isValidParenthesis.js" />
