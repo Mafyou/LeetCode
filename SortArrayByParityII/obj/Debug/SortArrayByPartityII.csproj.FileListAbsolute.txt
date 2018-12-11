@@ -1,0 +1,3 @@
+c:\users\sp_farm\documents\visual studio 2015\Projects\LeetCode\LeetCode\bin\Debug\LeetCode.exe.config
+c:\users\sp_farm\documents\visual studio 2015\Projects\LeetCode\LeetCode\obj\Debug\LeetCode.exe
+c:\users\sp_farm\documents\visual studio 2015\Projects\LeetCode\LeetCode\obj\Debug\LeetCode.pdb
