@@ -50,6 +50,7 @@
     <Content Include="JavaScript\arrayPairSum.js" />
     <Content Include="JavaScript\atoi.js" />
     <Content Include="JavaScript\backspaceCompare.js" />
+    <Content Include="JavaScript\buddyStrings.js" />
     <Content Include="JavaScript\canConstruct.js" />
     <Content Include="JavaScript\checkPossibility.js" />
     <Content Include="JavaScript\containsDuplicate.js" />
@@ -57,9 +58,11 @@
     <Content Include="JavaScript\Increment.js" />
     <Content Include="index.html" />
     <Content Include="JavaScript\isAnagram.js" />
+    <Content Include="JavaScript\isHappy.js" />
     <Content Include="JavaScript\isPalindrome.js" />
     <Content Include="JavaScript\isValidParenthesis.js" />
     <Content Include="JavaScript\isValidParenthesis_sans_regexp.js" />
+    <Content Include="JavaScript\judgeCircle.js" />
     <Content Include="JavaScript\jump.js" />
     <Content Include="JavaScript\lastRemaining.js" />
     <Content Include="JavaScript\LinkedList.js" />
@@ -70,6 +73,7 @@
     <Content Include="JavaScript\merge.js" />
     <Content Include="JavaScript\mergeTwoLists.js" />
     <Content Include="JavaScript\missingNumber.js" />
+    <Content Include="JavaScript\rangeSumBST.js" />
     <Content Include="JavaScript\recursion.js" />
     <Content Include="JavaScript\removeDuplicates.js" />
     <Content Include="JavaScript\removeDuplicates2.js" />
@@ -80,6 +84,8 @@
     <Content Include="JavaScript\reverseWords.js" />
     <Content Include="JavaScript\reverse_integer.js" />
     <Content Include="JavaScript\shiftingLetters.js" />
+    <Content Include="JavaScript\sortArrayByParityII.js" />
+    <Content Include="JavaScript\sortArrayByParityII_Salim.js" />
     <Content Include="JavaScript\twoSum.js" />
   </ItemGroup>
   <ItemGroup>
