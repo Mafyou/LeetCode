@@ -55,6 +55,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SortArrayByParityII", "Sort
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UniqueMorseRepresentations", "UniqueMorseRepresentations\UniqueMorseRepresentations.csproj", "{F001B992-26CD-46AD-86F4-5D2C623E0D7A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ThreeSum", "ThreeSum\ThreeSum.csproj", "{205CAFE9-73A1-4B64-99AF-5968647F488C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -165,6 +167,10 @@ Global
 		{F001B992-26CD-46AD-86F4-5D2C623E0D7A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F001B992-26CD-46AD-86F4-5D2C623E0D7A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F001B992-26CD-46AD-86F4-5D2C623E0D7A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{205CAFE9-73A1-4B64-99AF-5968647F488C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{205CAFE9-73A1-4B64-99AF-5968647F488C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{205CAFE9-73A1-4B64-99AF-5968647F488C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{205CAFE9-73A1-4B64-99AF-5968647F488C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
