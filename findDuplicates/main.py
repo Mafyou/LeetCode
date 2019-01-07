@@ -4,14 +4,13 @@ class Solution:
         :type nums: List[int]
         :rtype: List[int]
         """
-        no_duplicates = []
-        duplicates = []
+        res = set()
         for num in nums:
-            if num in no_duplicates:
-                duplicates.append(num)
-            else:
-                no_duplicates.append(num)
-        return duplicates
+            count = nums.count(num)
+            if count == 2:
+                res.add(num)
+                nums.remove(num)
+        return list(res)
 
 toto = Solution()
-toto.findDuplicates([4,3,2,7,8,2,3,1])
+print(toto.findDuplicates([4,3,2,7,8,2,3,1]))

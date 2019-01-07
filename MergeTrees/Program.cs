@@ -36,7 +36,6 @@
                               right = new TreeNode(3) {right = new TreeNode(7)}
                           };
             TreeNode rts = MergeTrees(t1, t2);
-            int a = 0;
         }
     }
 }

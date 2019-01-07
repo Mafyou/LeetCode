@@ -19,7 +19,7 @@ class Solution:
 toto = Solution()
 print(toto.twoSum([2,7,11,15], 9))
 print(toto.twoSum([2,3,4], 6))
-print(toto.twoSum([-1,0], -1))>
+print(toto.twoSum([-1,0], -1))
 print(toto.twoSum([0,0,3,4], 0))
 print(toto.twoSum([5,25,75], 100))
-""https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/submissions/
+"""https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/submissions/"""
