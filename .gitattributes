@@ -1,7 +1,4 @@
-*.extension -crlf -diff or *.extension binary
-* text=auto
-
-# Custom for Visual Studio
-*.cs diff=csharp
-*.sln merge=union
-*.csproj merge=union
+* linguist-vendored
+*.py linguist-vendored=false
+*.cs linguist-vendored=false
+*.js linguist-vendored=false
