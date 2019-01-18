@@ -1,3 +1,7 @@
-* linguist-vendored
-*.py linguist-vendored=false
-*.csharp linguist-vendored=false
+*.extension -crlf -diff or *.extension binary
+* text=auto
+
+# Custom for Visual Studio
+*.cs diff=csharp
+*.sln merge=union
+*.csproj merge=union
